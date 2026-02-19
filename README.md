@@ -1,12 +1,16 @@
 # DoodleDev
 
+<img width="1704" height="908" alt="Screenshot 2026-02-13 093524" src="https://github.com/user-attachments/assets/1f816a06-742a-43e2-b056-bcaabbd491ec" />
+
+---
+
 ### [Launch DoodleDev](https://doodledev.app)
+
+---
 
 **The web shouldn't make your designs look worse.**
 
 DoodleDev is a visual compiler built to bridge the gap between high fidelity design and production engineering. It allows you to build complex front end interfaces and compile them into clean, zero dependency Web Components with every detail intact.
-
-<img width="1704" height="908" alt="Screenshot 2026-02-13 093524" src="https://github.com/user-attachments/assets/1f816a06-742a-43e2-b056-bcaabbd491ec" />
 
 ## The Philosophy
 Most web tools force you to compromise your vision to fit into a framework. DoodleDev was built on a simple premise: **Figma outputs pictures. DoodleDev outputs code.**
