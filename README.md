@@ -1,6 +1,6 @@
 # DoodleDev
 
-<img width="1704" height="908" alt="Screenshot 2026-02-13 093524" src="https://github.com/user-attachments/assets/1f816a06-742a-43e2-b056-bcaabbd491ec" />
+<img width="1400" height="910" alt="gitdoodle1" src="https://github.com/user-attachments/assets/c41a5c78-369c-4489-8887-fed525e70918" />
 
 ---
 
@@ -17,7 +17,7 @@ Most web tools force you to compromise your vision to fit into a framework. Dood
 
 We reject the idea of "vibecoding" or AI guessing. This is a precision instrument that establishes a direct link between visual intent and binary execution. If you can design it, the engine can run it.
 
-<img width="1704" height="909" alt="Screenshot 2026-02-13 093508" src="https://github.com/user-attachments/assets/18d94511-26f7-4019-b983-eccdf0854e60" />
+<img width="1400" height="910" alt="gitdoodle2" src="https://github.com/user-attachments/assets/50036ebf-f7fd-433f-9bbd-c1ca7dcb48e8" />
 
 ## Features
 * **Visual Compiler:** Turns vector designs directly into optimized, production ready HTML/CSS/JS.
@@ -26,7 +26,7 @@ We reject the idea of "vibecoding" or AI guessing. This is a precision instrumen
 * **State Aware:** Built in logic for hover states, click events, and complex transitions without writing code.
 * **Vector Precision:** Features a robust boolean shape builder and bezier logic for exact geometry control.
 
-<img width="1706" height="906" alt="Screenshot 2026-02-13 093604" src="https://github.com/user-attachments/assets/487198cf-0690-485b-90fa-c3fe2355edc5" />
+<img width="1400" height="910" alt="gitdoodle3" src="https://github.com/user-attachments/assets/f20e193b-0ba5-4402-a315-16b37727df77" />
 
 ## Usage
 DoodleDev generates standard Custom Elements that drop into any project with zero friction.
