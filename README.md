@@ -1,41 +1,52 @@
 # DoodleDev
 
-<img width="1400" height="910" alt="gitdoodle1" src="https://github.com/user-attachments/assets/c41a5c78-369c-4489-8887-fed525e70918" />
+A visual design and animation tool for the web. Draw on the canvas, animate on a timeline, and export production HTML / CSS / JS with no runtime dependencies.
 
----
+Live at [doodledev.app](https://doodledev.app).
 
-### [Launch DoodleDev](https://doodledev.app)
-
----
-
-**The web shouldn't make your designs look worse.**
-
-DoodleDev is a visual compiler built to bridge the gap between high fidelity design and production engineering. It allows you to build complex front end interfaces and compile them into clean, zero dependency Web Components with every detail intact.
-
-## The Philosophy
-Most web tools force you to compromise your vision to fit into a framework. DoodleDev was built on a simple premise: **Figma outputs pictures. DoodleDev outputs code.**
-
-We reject the idea of "vibecoding" or AI guessing. This is a precision instrument that establishes a direct link between visual intent and binary execution. If you can design it, the engine can run it.
-
-<img width="1400" height="910" alt="gitdoodle2" src="https://github.com/user-attachments/assets/50036ebf-f7fd-433f-9bbd-c1ca7dcb48e8" />
+<p align="center">
+  <img width="1920" height="1080" alt="doodleDev1" src="https://github.com/user-attachments/assets/4d7ea5dc-9cbf-4e20-9c40-3d2cc4385634" />
+  &nbsp;
+  <img width="1920" height="1080" alt="doodleDev2" src="https://github.com/user-attachments/assets/e5707f7c-366a-4c74-98a9-a436518d16c5" />
+</p>
 
 ## Features
-* **Visual Compiler:** Turns vector designs directly into optimized, production ready HTML/CSS/JS.
-* **Zero Dependency Runtime:** Exports stand alone Web Components that require no React, Vue, or external libraries to run.
-* **Physics Based Animation:** Includes a custom, lightweight animation engine for sub pixel interpolation and 60fps performance.
-* **State Aware:** Built in logic for hover states, click events, and complex transitions without writing code.
-* **Vector Precision:** Features a robust boolean shape builder and bezier logic for exact geometry control.
 
-<img width="1400" height="910" alt="gitdoodle3" src="https://github.com/user-attachments/assets/f20e193b-0ba5-4402-a315-16b37727df77" />
+- Vector canvas: shapes, pen / bezier paths, text, groups, and a boolean shape builder
+- Styling: fills, strokes, gradients, shadows, glow, lighting, blur, and noise
+- Timeline keyframe animation with easing and playback
+- Interactive states for hover and click without hand-writing the glue
+- Export as a Web Component or a full HTML page
+- Exported output is standalone. No React, Vue, or animation library required
 
-## Usage
-DoodleDev generates standard Custom Elements that drop into any project with zero friction.
+## Export
 
-1. Export your component from DoodleDev.
-2. Drop the file into your project.
-3. Use the tag.
+Drop the export into any site and use the custom element:
 
 ```html
 <script type="module" src="./doodle-export.js"></script>
 
 <doodle-component></doodle-component>
+```
+
+## Stack
+
+- Vanilla HTML / CSS / JavaScript
+- Vite
+- Custom export pipeline that ships only the animation code your design uses
+
+## Related
+
+Handheld shells and UI pieces from DoodleDev show up in:
+
+- [Mitch Boy Color](https://github.com/mitchivin/gameboy) - Game Boy Color emulator in the browser
+- [MiPod](https://github.com/mitchivin/ipod) - click-wheel music player
+- [MitchIvin XP](https://mitchivin.com/) - Windows XP portfolio desktop
+
+## Credits
+
+Built by **[Mitch Ivin](https://mitchivin.com/)**.
+
+## License
+
+Source stays private. The live product is at [doodledev.app](https://doodledev.app).
