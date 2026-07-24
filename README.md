@@ -6,8 +6,6 @@ Live at [doodledev.app](https://doodledev.app).
 
 <p align="center">
   <img width="1920" height="1080" alt="doodleDev1" src="https://github.com/user-attachments/assets/4d7ea5dc-9cbf-4e20-9c40-3d2cc4385634" />
-  &nbsp;
-  <img width="1920" height="1080" alt="doodleDev2" src="https://github.com/user-attachments/assets/e5707f7c-366a-4c74-98a9-a436518d16c5" />
 </p>
 
 ## Features
@@ -18,6 +16,10 @@ Live at [doodledev.app](https://doodledev.app).
 - Interactive states for hover and click without hand-writing the glue
 - Export as a Web Component or a full HTML page
 - Exported output is standalone. No React, Vue, or animation library required
+
+<p align="center">
+  <img width="1920" height="1080" alt="doodleDev2" src="https://github.com/user-attachments/assets/e5707f7c-366a-4c74-98a9-a436518d16c5" />
+</p>
 
 ## Export
 
