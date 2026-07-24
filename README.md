@@ -41,8 +41,8 @@ Drop the export into any site and use the custom element:
 
 Handheld shells and UI pieces from DoodleDev show up in:
 
-- [Mitch Boy Color](https://github.com/mitchivin/gameboy) - Game Boy Color emulator in the browser
-- [MiPod](https://github.com/mitchivin/ipod) - click-wheel music player
+- [MI Boy Color](https://github.com/mitchivin/miboy) - handheld shell
+- [MiPod](https://github.com/mitchivin/mipod) - click-wheel shell
 - [MitchIvin XP](https://mitchivin.com/) - Windows XP portfolio desktop
 
 ## Credits
