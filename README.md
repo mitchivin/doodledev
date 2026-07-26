@@ -37,14 +37,6 @@ Drop the export into any site and use the custom element:
 - Vite
 - Custom export pipeline that ships only the animation code your design uses
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5fb432fb-b987-48ac-8d53-41b46e287e86" alt="MiPod Live Demo" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fa01f135-d093-4692-9b0c-5504a549fde5" alt="MiPod Live Demo" />
-</p>
-
 ## Related
 
 Handheld shells and UI pieces from DoodleDev show up in:
