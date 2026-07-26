@@ -31,6 +31,11 @@ Drop the export into any site and use the custom element:
 <doodle-component></doodle-component>
 ```
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fa01f135-d093-4692-9b0c-5504a549fde5" alt="MiPod Live Demo" />
+</p>
+
+
 ## Stack
 
 - Vanilla HTML / CSS / JavaScript
