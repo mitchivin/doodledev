@@ -5,7 +5,7 @@ A visual design and animation tool for the web. Draw on the canvas, animate on a
 Live at [doodledev.app](https://doodledev.app).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9fe6b17d-1382-4a07-b511-ae52c8221e2e" alt="DoodleDev Editor" />
+  <img src="https://github.com/user-attachments/assets/a4520428-8ac5-4b25-8c95-1ab7945afaa0" alt="DoodleDev Editor" />
 </p>
 
 ## Features
@@ -18,7 +18,7 @@ Live at [doodledev.app](https://doodledev.app).
 - Exported output is standalone. No React, Vue, or animation library required
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/90e044c0-4eb2-46a0-bfa4-38510f40a328" alt="DoodleDev Code Preview" />
+  <img src="https://github.com/user-attachments/assets/562180c7-6007-4233-81a8-3c5fa46ccd26" alt="DoodleDev Code Preview" />
 </p>
 
 ## Export
