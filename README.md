@@ -13,7 +13,7 @@ Currently in public preview. Use a desktop browser; no account is needed.
 - **Drawing tools.** Combine shapes, paths, text and images on the canvas.
 - **Styling.** Adjust colours, gradients, shadows and effects as you work.
 - **Layers and files.** Manage layers and groups, then save a local `.doodle` file to return to later.
-- **Presets.** Explore the Game Boy Color and iPod Classic presets, or begin with a blank canvas.
+- **Presets.** Explore the Game Boy Color, iPod Classic and iPod (Gen 1) presets, or begin with a blank canvas.
 - **Export.** Preview and download a standalone HTML page or Web Component, with no framework runtime required.
 
 ![Game Boy Color with its display selected and screen group expanded in Layers](assets/game-boy-color-screen-editor-1920x1080.png)
@@ -38,10 +38,11 @@ This repository contains public product information. The application source is n
 
 ## Related
 
-Explore the Game Boy Color and iPod Classic designs in use:
+Explore the designs in use:
 
 - [Game Boy Color](https://doodledev.app/builds/#game-boy-color)
 - [iPod Classic](https://doodledev.app/builds/#ipod-classic)
+- [iPod Original](https://github.com/mitchivin/ipod-original)
 
 Or visit [MitchIvin XP](https://mitchivin.com/), Mitch's interactive portfolio desktop.
 
