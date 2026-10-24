@@ -6,17 +6,17 @@ A visual design tool for the web. Draw on the canvas, refine the details, and ex
 
 Currently in public preview. Use a desktop browser; no account is needed.
 
-[![DoodleDev editor welcome screen with options to start a design, open a project or explore MI Boy and iPod Classic presets](assets/doodledev-welcome-1920x1080.png)](https://doodledev.app/)
+[![DoodleDev editor welcome screen with options to start a design, open a project or explore Game Boy Color and iPod presets](assets/doodledev-welcome-1920x1080.png)](https://doodledev.app/)
 
 ## Features
 
 - **Drawing tools.** Combine shapes, paths, text and images on the canvas.
 - **Styling.** Adjust colours, gradients, shadows and effects as you work.
 - **Layers and files.** Manage layers and groups, then save a local `.doodle` file to return to later.
-- **Presets.** Explore the MI Boy Color and iPod Classic presets, or begin with a blank canvas.
+- **Presets.** Explore the Game Boy Color and iPod Classic presets, or begin with a blank canvas.
 - **Export.** Preview and download a standalone HTML page or Web Component, with no framework runtime required.
 
-![MI Boy Color with its display selected and screen group expanded in Layers](assets/miboy-screen-editor-1920x1080.png)
+![Game Boy Color with its display selected and screen group expanded in Layers](assets/game-boy-color-screen-editor-1920x1080.png)
 
 ## Learn more
 
@@ -38,9 +38,9 @@ This repository contains public product information. The application source is n
 
 ## Related
 
-Explore the MI Boy Color and iPod Classic designs in use:
+Explore the Game Boy Color and iPod Classic designs in use:
 
-- [MI Boy Color](https://doodledev.app/builds/#miboy)
+- [Game Boy Color](https://doodledev.app/builds/#game-boy-color)
 - [iPod Classic](https://doodledev.app/builds/#ipod-classic)
 
 Or visit [MitchIvin XP](https://mitchivin.com/), Mitch's interactive portfolio desktop.
